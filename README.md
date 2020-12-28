@@ -14,6 +14,14 @@ The library provides optical character recognition (OCR) support for:
 * Multi-page TIFF images
 * PDF document format
 
+
+## Extension features
+
+The library extension provides additional supports for:
+
+* Recognization of Simplified Chinese Characters
+* Support linux and macOS platform
+
 ## Dependencies
 
 Microsoft Visual C++ 2019 x86 and x64 Runtimes
